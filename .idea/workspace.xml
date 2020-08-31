@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad25f09b-8a84-41a0-aff1-59eda267ac85" name="Default Changelist" comment="working solution linkedlistconstruction">
+      <change afterPath="$PROJECT_DIR$/bstconstruction/program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bstconstruction/test.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="787c1353-d95e-48eb-8626-d6a395c66515" />
+  <component name="ProjectId" id="1fvjXim5cwwdeJDba5E5UTNO7yW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/linkedlistconstruction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.program (1)">
+    <configuration name="minheapconstruction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algoexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/minheapconstruction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algoexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/suffixtrieconstruction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suffixtrieconstruction/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="algoexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/linkedlistconstruction" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedlistconstruction/program.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Twisted Trial for test.TestProgram.test_case_1" type="tests" factoryName="Twisted Trial" temporary="true" nameIsGenerated="true">
+      <module name="algoexpert" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/minmaxstack" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestProgram.test_case_1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.minheapconstruction" />
+      <item itemvalue="Python.program" />
+      <item itemvalue="Python.program (1)" />
+      <item itemvalue="Python tests.Twisted Trial for test.TestProgram.test_case_1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.program (1)" />
+        <item itemvalue="Python tests.Twisted Trial for test.TestProgram.test_case_1" />
+        <item itemvalue="Python.program" />
+        <item itemvalue="Python.minheapconstruction" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad25f09b-8a84-41a0-aff1-59eda267ac85" name="Default Changelist" comment="" />
+      <created>1597105502514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597105502514</updated>
+      <workItem from="1597105503794" duration="28566000" />
+      <workItem from="1597277865942" duration="18325000" />
+      <workItem from="1597407636577" duration="11082000" />
+      <workItem from="1597808339448" duration="75000" />
+    </task>
+    <task id="LOCAL-00001" summary="working solution">
+      <created>1597136964853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597136964853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="working solution linkedlistconstruction">
+      <created>1597222064032</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597222064032</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working solution for min max stack">
+      <created>1597280042938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597280042938</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Working solution for suffix trie">
+      <created>1597369544493</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597369544493</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working solution" />
+    <MESSAGE value="working solution linkedlistconstruction" />
+    <MESSAGE value="Working solution for min max stack" />
+    <MESSAGE value="Working solution for suffix trie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working solution for suffix trie" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="366" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597222146132">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state x="366" y="151" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.932@0.23.1680.932" timestamp="1597222146132" />
+    <state width="1515" height="249" key="GridCell.Tab.0.bottom" timestamp="1597405331365">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="249" key="GridCell.Tab.0.bottom/0.23.1680.932@0.23.1680.932" timestamp="1597405331365" />
+    <state width="1515" height="249" key="GridCell.Tab.0.bottom/0.23.1680.934@0.23.1680.934" timestamp="1597298056843" />
+    <state width="1515" height="249" key="GridCell.Tab.0.center" timestamp="1597405331364">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="249" key="GridCell.Tab.0.center/0.23.1680.932@0.23.1680.932" timestamp="1597405331364" />
+    <state width="1515" height="249" key="GridCell.Tab.0.center/0.23.1680.934@0.23.1680.934" timestamp="1597298056842" />
+    <state width="1515" height="249" key="GridCell.Tab.0.left" timestamp="1597405331361">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="249" key="GridCell.Tab.0.left/0.23.1680.932@0.23.1680.932" timestamp="1597405331361" />
+    <state width="1515" height="249" key="GridCell.Tab.0.left/0.23.1680.934@0.23.1680.934" timestamp="1597298056841" />
+    <state width="1515" height="249" key="GridCell.Tab.0.right" timestamp="1597405331365">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="249" key="GridCell.Tab.0.right/0.23.1680.932@0.23.1680.932" timestamp="1597405331365" />
+    <state width="1515" height="249" key="GridCell.Tab.0.right/0.23.1680.934@0.23.1680.934" timestamp="1597298056842" />
+    <state width="1515" height="308" key="GridCell.Tab.1.bottom" timestamp="1597222192757">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="308" key="GridCell.Tab.1.bottom/0.23.1680.932@0.23.1680.932" timestamp="1597222192757" />
+    <state width="1515" height="308" key="GridCell.Tab.1.center" timestamp="1597222192757">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="308" key="GridCell.Tab.1.center/0.23.1680.932@0.23.1680.932" timestamp="1597222192757" />
+    <state width="1515" height="308" key="GridCell.Tab.1.left" timestamp="1597222192756">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="308" key="GridCell.Tab.1.left/0.23.1680.932@0.23.1680.932" timestamp="1597222192756" />
+    <state width="1515" height="308" key="GridCell.Tab.1.right" timestamp="1597222192757">
+      <screen x="0" y="23" width="1680" height="932" />
+    </state>
+    <state width="1515" height="308" key="GridCell.Tab.1.right/0.23.1680.932@0.23.1680.932" timestamp="1597222192757" />
+    <state x="566" y="227" width="670" height="676" key="search.everywhere.popup" timestamp="1597386530910">
+      <screen x="0" y="23" width="1680" height="934" />
+    </state>
+    <state x="566" y="227" key="search.everywhere.popup/0.23.1680.932@0.23.1680.932" timestamp="1597116402636" />
+    <state x="566" y="227" width="670" height="676" key="search.everywhere.popup/0.23.1680.934@0.23.1680.934" timestamp="1597386530910" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algoexpert$minheapconstruction.coverage" NAME="minheapconstruction Coverage Results" MODIFIED="1597136600436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/algoexpert$program.coverage" NAME="program Coverage Results" MODIFIED="1597204627686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlistconstruction" />
+    <SUITE FILE_PATH="coverage/algoexpert$Twisted_Trial_for_test_TestProgram_test_case_1.coverage" NAME="Twisted Trial for test.TestProgram.test_case_1 Coverage Results" MODIFIED="1597279583025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/minmaxstack" />
+    <SUITE FILE_PATH="coverage/algoexpert$program__1_.coverage" NAME="program (1) Coverage Results" MODIFIED="1597285232190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/suffixtrieconstruction" />
+    <SUITE FILE_PATH="coverage/algoexpert$Twisted_Trial_in_test_py.coverage" NAME="Twisted Trial in test.py Coverage Results" MODIFIED="1597196511967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/linkedlistconstruction" />
+  </component>
+</project>
