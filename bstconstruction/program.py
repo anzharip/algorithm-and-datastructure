@@ -54,7 +54,6 @@ class BST:
             else:
                 if parent_node is None:
                     if cur_node.left is not None and cur_node.right is not None:
-                        print('triggered')
                         cur_node.value = cur_node.right.get_min_value()
                         cur_node.right.remove(cur_node.value, cur_node)
                     elif cur_node.left is not None and cur_node.right is None:
@@ -82,9 +81,6 @@ class BST:
                         cur_node.right.remove(cur_node.value, cur_node)
                     elif cur_node.left is None and cur_node.right is None:
                         # case removing leaf node
-                        print('parent_node.left == cur_node: ', parent_node.left == cur_node)
-                        print('parent_node.right == cur_node: ', parent_node.right == cur_node)
-
                         if parent_node.left == cur_node:
                             parent_node.left = None
                         elif parent_node.right == cur_node:
