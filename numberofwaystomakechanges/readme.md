@@ -19,7 +19,6 @@ denominations = [1, 5]
 
 ```python
 def number_of_ways_to_make_changes(n, denominations):
-    # Write your code here.
     ways = [0] * (n + 1)
     ways[0] = 1
 
