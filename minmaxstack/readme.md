@@ -44,13 +44,13 @@ class MinMaxStack:
             }
         )
 
-    def getMin(self):
+    def get_min(self):
         if len(self.stack) == 0:
             return None
         else:
             return self.stack[len(self.stack) - 1]['min']
 
-    def getMax(self):
+    def get_max(self):
         if len(self.stack) == 0:
             return None
         else:
